@@ -2,9 +2,9 @@
 
 A creative, interactive portfolio website built with a **flipbook / book-turning animation** concept. Each page flip reveals a new section — giving recruiters and visitors a unique, memorable browsing experience.
 
----
+<!-- ---
 
-<!-- ## 🌐 Live Demo
+## 🌐 Live Demo
 
 > [**View Live →**](https://your-deployment-link.vercel.app) *(replace with your Vercel/Netlify URL)* -->
 
@@ -75,7 +75,7 @@ open index.html
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-amrutkar-854639290/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Apurva231)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/apurva_r_a232/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/apurvaamrutkar)
+
 
 ---
 
